@@ -1,5 +1,5 @@
 15 error Error: Command failed with exit code 1: git remote update
-15 error fatal: unable to access 'https://github.com/sftechcomp/sf-tech-components.git/': Failed to connect to github.com port 443 after 22535 ms: Operation timed out
+15 error fatal: unable to access 'https://github.com/sftechcomp/sf-tech-components.git/': Empty reply from server
 15 error     at makeError (/Users/lixiaodong/Documents/我的项目/顺丰组件库/sf-tech-components/node_modules/execa/lib/error.js:60:11)
 15 error     at Function.module.exports.sync (/Users/lixiaodong/Documents/我的项目/顺丰组件库/sf-tech-components/node_modules/execa/index.js:194:17)
 15 error     at Object.execSync (/Users/lixiaodong/Documents/我的项目/顺丰组件库/sf-tech-components/node_modules/@lerna/child-process/index.js:39:16)
