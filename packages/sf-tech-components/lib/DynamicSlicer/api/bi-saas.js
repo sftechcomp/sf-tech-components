@@ -316,13 +316,3 @@ export function updateData(data) {
         data
     })
 }
-
-// --------------------------- 图片上传接口-服务器  -------------------------------
-
-export function uploadImg(data) {
-    return request({
-        url: '/file/uploadFile',
-        method: 'post',
-        data
-    })
-}
